@@ -2,8 +2,8 @@
 
 - 💻 I'm a freelance full stack dev 
 - 🐕 Dog person (not trying to start any wars, I also enjoy cats)
-- ⭐ 2022's objective: Contribute more to open source
-- 📚 Currently reading: The Dispossessed by Ursula K. Le Guin
+- ⭐ 2022's objective: Contribute more to crypto open source
+- 📚 Currently reading: A Wizard of Earthsea by Ursula K. Le Guin
 
 Check out my site for more info about me: [www.willmartin.ca](https://www.willmartin.ca/)
 
