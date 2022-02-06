@@ -3,7 +3,7 @@
 - 💻 I'm a freelance full stack dev 
 - 🐕 Dog person (not trying to start any wars, I also enjoy cats)
 - ⭐ 2022's objective: Contribute more to crypto open source
-- 📚 Currently reading: A Wizard of Earthsea by Ursula K. Le Guin
+- 📚 Currently reading: Tombs of Atuan by Ursula K. Le Guin
 
 Check out my site for more info about me: [www.willmartin.ca](https://www.willmartin.ca/)
 
