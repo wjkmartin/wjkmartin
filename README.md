@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Will Martin</h1>
 
-- 💻 I'm a freelance full stack dev 
+- 💻 Frontend developer at Constant Health 
 - 🐕 Dog person (not trying to start any wars, I also enjoy cats)
-- ⭐ 2022's objective: Contribute more to crypto open source
+- ⭐ 2022's objective: Contribute more to open source
 - 📚 Currently reading: Tombs of Atuan by Ursula K. Le Guin
 
 Check out my site for more info about me: [www.willmartin.ca](https://www.willmartin.ca/)
