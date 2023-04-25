@@ -3,7 +3,7 @@
 - 💻 Frontend developer at Constant Health 
 - 🐕 Dog person (not trying to start any wars, I also enjoy cats)
 - ⭐ 2022's objective: Contribute more to open source
-- 📚 Currently reading: Dracula by Bram Stoker
+- 📚 Currently reading: Silo (series)
 
 Check out my site for more info about me: [www.willmartin.ca](https://www.willmartin.ca/)
 
