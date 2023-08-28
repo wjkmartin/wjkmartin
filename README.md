@@ -3,7 +3,7 @@
 - 💻 Frontend developer at Constant Health 
 - 🐕 Dog person (not trying to start any wars, I also enjoy cats)
 - ⭐ 2023's objective: Deal with entering my 30's
-- 📚 Currently reading: Silo (series)
+- 📚 Currently reading: Mother of Learning (a web serial)
 
 Check out my site for more info about me: [www.willmartin.ca](https://www.willmartin.ca/)
 
