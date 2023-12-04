@@ -7,7 +7,6 @@
 
 Check out my site for more info about me: [www.willmartin.ca](https://www.willmartin.ca/)
 
-[![Will's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjkmartin&count_private=true&show_icons=true&hide=stars&theme=dark)](https://github.com/wjkmartin?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjkmartin&count_private=true&layout=compact&theme=dark)](https://github.com/wjkmartin?tab=repositories)
 
  <p align='left'>
