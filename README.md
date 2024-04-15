@@ -1,11 +1,12 @@
 <h2 align="center">I'm Will Martin. Don't worry, the websites and me have an understanding.</h2>
 
-- 💻 Frontend developer at Constant Health 
+- 💻 Frontend developer at [Constant Health](https://www.constanthealth.ca/)
 - 🐕 Dog person, but learning that cats are chill little friends as well
 - ⭐ 2024's objective: Touch grass daily while dealing with existential dread over the coming singularity
 - 📚 Currently re-reading: 	Pierce Brown's trilogies (classist space romans🤘)
 
-Check out my site for more info about me: [www.willmartin.ca](https://www.willmartin.ca/)
+Check out my site for more info about me, but don't expect much, I'm much more interesting in person. Yes, even in a zoom call.
+[www.willmartin.ca](https://www.willmartin.ca/)
 
  <p align='left'>
    <a href="https://www.linkedin.com/in/will-martin-a1890b184/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>&nbsp;&nbsp;
