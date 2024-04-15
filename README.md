@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Will Martin</h1>
+<h1 align="center">I'm Will Martin, and the websites and me have an understanding.</h1>
 
 - 💻 Frontend developer at Constant Health 
 - 🐕 Dog person, but learning that cats are chill little friends as well
-- ⭐ 2024's objective: Touch grass daily
+- ⭐ 2024's objective: Touch grass daily while dealing with existential dread over the coming singularity
 - 📚 Currently re-reading: 	Pierce Brown's trilogies (classist space romans🤘)
 
 Check out my site for more info about me: [www.willmartin.ca](https://www.willmartin.ca/)
