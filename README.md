@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Will Martin</h1>
 
 - 💻 Frontend developer at Constant Health 
-- 🐕 Dog person (not trying to start any wars, I also enjoy cats)
-- ⭐ 2023's objective: Deal with entering my 30's
-- 📚 Currently reading: All Quiet on the Western Front
+- 🐕 Dog person, but learning that cats are chill little friends as well
+- ⭐ 2024's objective: Touch grass daily
+- 📚 Currently re-reading: 	Pierce Brown's trilogies (classist space romans🤘)
 
 Check out my site for more info about me: [www.willmartin.ca](https://www.willmartin.ca/)
 
