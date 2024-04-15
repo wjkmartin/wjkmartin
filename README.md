@@ -1,4 +1,4 @@
-<h1 align="center">I'm Will Martin, and the websites and me have an understanding.</h1>
+<h2 align="center">I'm Will Martin, don't worry, the websites and me have an understanding.</h2>
 
 - 💻 Frontend developer at Constant Health 
 - 🐕 Dog person, but learning that cats are chill little friends as well
