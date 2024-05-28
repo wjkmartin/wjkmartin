@@ -5,7 +5,7 @@
 - ⭐ 2024's objective: Touch grass daily while dealing with existential dread over the coming singularity
 - 📚 Currently re-reading: 	Pierce Brown's trilogies (classist space romans🤘)
 
-Check out my site for more info about me, but don't expect much, I'm much more interesting in person. Yes, even in a zoom call.
+Check out my site for more info about me, but don't expect much, I'm much more interesting in person.
 [www.willmartin.ca](https://www.willmartin.ca/)
 
  <p align='left'>
