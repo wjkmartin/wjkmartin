@@ -1,7 +1,7 @@
 <h2 align="center">Will Martin (the real human™️)</h2>
 
 - 💻 Front-end developer at [Constant Health](https://www.constanthealth.ca/). Unoffically, an everything developer. I cannot say no 😂.
-- 🐕 Dog person, but cats can come too. Friend of all nature, excepting that with more than two eyes, or four legs, they can die 🔥. 
+- 🐕 Dog person, but cats can come too. Friend of all nature, excepting that with more than two eyes, or four legs, they can die 🔥. 🐝s are allowed.
 - ⭐ 2025's objective: Try not to cry while I contemplate post-AGI economics (and touch some grass from time to time). 
 - 📚 Currently reading: The Decline and Fall of the Roman Empire (abridged). Turns out history really does repeat itself.
 
