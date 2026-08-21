@@ -1,7 +1,7 @@
 <h2 align="center">Will Martin (the real human™️)</h2>
 
-- 💻 Senior Front-end developer at [Constant Health](https://www.constanthealth.ca/). 
-- 🐕 Dog person, but cats can come too. Friend of all nature, excepting that with more than two eyes, or four legs, they can die 🔥. 🐝s are allowed.
+- 💻 Engineer at [Constant Health](https://www.constanthealth.ca/). 
+- 🐕 Dog person, but cats can come too. Friend of all nature. As long as it doesn't crawl on my wall or ceiling. 🐝s are allowed.
 - ⭐ 2026's objective: World peace. 
 - 📚 Currently reading: The 2000 chapter Epic of Fang Yuan.
 
